@@ -1,0 +1,34 @@
+{
+    "AzureDevOps": {
+        "Org": "msft-skilling",
+        "Project": "Content",
+        "AreaPath": "Production\\Digital and App Innovation\\DotNet and more\\MAUI"
+    },
+    "ImportTriggerLabel": ":world_map: reQUEST",
+    "ImportedLabel": ":pushpin: seQUESTered",
+    "ParentNodes": [
+        {
+            "Label": "okr-curation",
+            "ParentNodeId": 237271
+        },
+        {
+            "Label": "sfi-ropc",
+            "ParentNodeId": 271716
+        },
+        {
+            "Label": "sfi-admin",
+            "ParentNodeId": 271716
+        },
+        {
+            "Label": "sfi-images",
+            "ParentNodeId": 286370
+        }
+    ],
+    "DefaultParentNode": 227487,
+    "WorkItemTags": [
+        {
+            "Label": "okr-curation",
+            "Tag": "content-curation"
+        }
+    ]
+}
